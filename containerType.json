@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "name":"40Feet",
+        "MaxWeight":19950,
+        "Used":0
+    },
+    {
+        "id":2,
+        "name":"20Feet",
+        "MaxWeight":16780,
+        "Used":0
+    }
+    
+]
